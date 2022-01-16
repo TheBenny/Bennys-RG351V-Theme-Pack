@@ -1,0 +1,43 @@
+  ____                                   
+ |  _ \                                  
+ | |_) |  ___  _ __   _ __   _   _  ___  
+ |  _ <  / _ \| '_ \ | '_ \ | | | |/ __| 
+ | |_) ||  __/| | | || | | || |_| |\__ \ 
+ |____/  \___||_| |_||_| |_| \__, ||___/ 
+                              __/ |      
+                             |___/ 
+  ██████╗  ██████╗ ██████╗ ███████╗ ██╗
+  ██╔══██╗██╔════╝ ╚════██╗██╔════╝███║ 
+  ██████╔╝██║  ███╗ █████╔╝███████╗╚██║
+  ██╔══██╗██║   ██║ ╚═══██╗╚════██║ ██║
+  ██║  ██║╚██████╔╝██████╔╝███████║ ██║
+  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═╝ 
+                  █╗   ██     
+                 ██║   ██║
+                 ██║   ██║
+                 ╚██╗ ██╔╝
+                  ╚████╔╝ 
+                   ╚═══╝  
+            ▄▄▄· ▄▄▄·  ▄▄· ▄ •▄ 
+           ▐█ ▄█▐█ ▀█ ▐█ ▌▪█▌▄▌▪
+            ██▀·▄█▀▀█ ██ ▄▄▐▀▀▄·
+           ▐█▪·•▐█ ▪▐▌▐███▌▐█.█▌
+            ▀    ▀  ▀ ·▀▀▀ ·▀  ▀  
+
+Huge thank you to ruckage for making Nes Mini
+& KALEL1981 for making Nes Box, awesome work folks. 
+
+Instructions
+Unzip the folders of each theme and drag then drag the unzipped file into your SDcard 1
+themes folder. 
+
+Best settings for Nes Box
+under theme configuration if you press start on your device and go to UI settings/ 
+theme configuration.
+-Automatic           -*Theme Font Size: Large*    -Theme Color: Any
+-4:3 or Fullscreen
+
+Best settings for Nes Mini
+under theme configuration if you press start on your device and go to UI settings/ 
+theme configuration.
+-Transition Style: Fade (might also look good on nesbox)
