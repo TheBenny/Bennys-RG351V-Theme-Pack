@@ -25,7 +25,7 @@
             ▀    ▀  ▀ ·▀▀▀ ·▀  ▀  
 
 Huge thank you to ruckage for making Nes Mini
-& KALEL1981 for making Nes Box, awesome work folks. 
+& KALEL1981 and Jetup13 for making and reformatting Nes Box, awesome work folks. 
 
 Instructions
 Unzip the folders of each theme and drag then drag the unzipped file into your SDcard 1
